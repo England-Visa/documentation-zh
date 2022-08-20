@@ -1,6 +1,8 @@
-name: Publish Document
+名称：发布文档
 
-on:
+
+上：
+
   push:
     branches:
       - master
